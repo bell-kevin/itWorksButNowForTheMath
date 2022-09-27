@@ -1,5 +1,5 @@
 # itWorksButNowForTheMath
-It Works But Now For The Math
+It Works But Now For The math
 
 ![hi](https://github.com/bell-kevin/itWorksButNowForTheMath/blob/main/everyOther.png)
 
